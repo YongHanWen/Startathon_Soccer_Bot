@@ -16,6 +16,6 @@ The robot is powered using a **higher-voltage battery configuration**, which red
 - 🥇 1st Prize Winner  
 - 💰 SGD $400 in prizes  
 
-📚 **Usage**
-- Used in **garage@EEE workshops**
-- Used in **makerspace competitions**
+📚 **Usage and Recognition**
+- Used in **Garage@EEE Soccer Bot workshop**
+- Used in **Makerspace Friendliness Competitions**
